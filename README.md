@@ -32,3 +32,4 @@
 | [movie-genre-predictor](/projects/movie-genre-predictor) | Филиппенко Илья Павлович |
 | [kobzar-news](/projects/kobzar-news) | Кобзарь Дарья Сергеевна |
 | [ag_newsgroups_labeller](/projects/ag_newsgroups_labeller) | Горцуева Александра Сергеевна |
+| [agnews](/projects/agnews) | Никурашин Алексей Сергеевич|
